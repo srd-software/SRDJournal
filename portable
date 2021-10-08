@@ -1,0 +1,1 @@
+Put this file in the same folder as the SRDJournal3® executable to run it in a "portable" way, i.e., everything runs from the app's folder and does not use the current user's appdata Roaming folder to store entries and files.
